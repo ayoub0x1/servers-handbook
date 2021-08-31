@@ -278,4 +278,4 @@ If you want to still have that show on ohmyzsh, add this to your `.zshrc` file.
 
 `PROMPT="%{$fg[white]%}%n@%{$fg[green]%}%m%{$reset_color%} ${PROMPT}"`
 
-credits and a big shout out to : <a href="twitter.com/kei0x">Kei0x</a>
+credits and a big shout out to : <a href="https://twitter.com/kei0x">Kei0x</a>
