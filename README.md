@@ -277,3 +277,5 @@ One of the first things I do when I get a new server is install ohmyzsh, but whe
 If you want to still have that show on ohmyzsh, add this to your `.zshrc` file.
 
 `PROMPT="%{$fg[white]%}%n@%{$fg[green]%}%m%{$reset_color%} ${PROMPT}"`
+
+credits and a big shout out to : <a href="twitter.com/kei0x">Kei0x</a>
